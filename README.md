@@ -1,4 +1,6 @@
 # stats220
+## Part One
+### some massages about stats220
 * This is my repo for stats 220
 * And this repo will cover some of what I've learned so far:
     * 🌼different levels of headers
@@ -11,7 +13,8 @@
 
 **Let's continue😄 It's really exciting, because...**
 
-## It‘s memes time!
+## Part Two is coming！
+### It‘s memes time!
 In this part, we should follow these rules:
 1. Watch memes❤️
 2. Having great fun with these memes❤️
